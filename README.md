@@ -1,3 +1,4 @@
+[Umweni_O_Capstone_project_2026.ipynb](https://github.com/user-attachments/files/24672990/Umweni_O_Capstone_project_2026.ipynb)
 # EXPLORING DATA WEB SCRAPING DATA ANALYSIS AND DASHBOARD CREATION
 
 # Objective:
@@ -189,3 +190,5 @@ Analysis Observations
 
 Conclusion:
 From the analysis it was clear that the three most populated countries in the world are India 1,463,865,525, China 1,416,096,094, and the United States with the latter having the least population of about 347,275,807 people. Also uncovered was that these countries have high fertility rates, making population growth by birth a major issue, the United States had more and a positive migrant value of 1230663, there was a need for immigration agencies to address its regulations. For future analysis more data set across different years should be used, and other details like number of births per year, death rate, and rural settlers’ percentage should be included.
+[Umweni_O_Capstone_project_2026.ipynb](https://github.com/user-attachments/files/24672997/Umweni_O_Capstone_project_2026.ipynb)
+[Umweni_O_Capstone_project_2026.ipynb](https://github.com/user-attachments/files/24673010/Umweni_O_Capstone_project_2026.ipynb)
