@@ -1,0 +1,2 @@
+# -EXPLORING-DATA-WEB-SCRAPING-DATA-ANALYSIS-AND-DASHBOARD-CREATION-
+population growth management due to its relevance in many aspects of human existence like security, food &amp; agriculture, housing and many more. So, the need for census and population management is very important in a time like this. In this project I will be scraping 2025 world population data from Wikipedia, a publicly accessible website.
