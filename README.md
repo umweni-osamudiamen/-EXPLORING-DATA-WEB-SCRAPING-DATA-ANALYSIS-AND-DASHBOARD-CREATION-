@@ -136,6 +136,10 @@ The percentage of the population contributed by the urban population is represen
 # Line Chart:
 The line chart displays the rate at which the population of each country changes, and indirectly telling how the world population changes.
 
+<img width="473" height="295" alt="MAP" src="https://github.com/user-attachments/assets/1487844e-91d0-4bc4-957f-b30f5d0c6b50" />
+# Map
+Was used to display the world share of the population
+
 # Dashboard:
 The Dashboard displayed below shows interactive visuals of different visuals combined. It contains two slices which are used for filtering the dashboard.
 It has a navigation card that allows a quick transition from one page to another.
