@@ -1,0 +1,2 @@
+# -EXPLORING-DATA-WEB-SCRAPING-DATA-ANALYSIS-AND-DASHBOARD-CREATION-
+The global topic or trend for decades now has been centred around population growth management due to its relevance in many aspects of human existence like security, food &amp; many more. So, the need for census and population management is very important. I will be scraping 2025 world population data from Wikipedia, for analysis.
